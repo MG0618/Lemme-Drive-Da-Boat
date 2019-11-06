@@ -11,3 +11,14 @@ The **Carnival Sensation** is one of the many Cruises in the [Carnival line of c
 1. Saturday: Arrive back in Miami
 ## The Ship
 ![image of da boat](https://www.carnival.com/~/media/Images/Ships/SE/carnival-sensation-2.jpg)
+The ship has a total of 13 decks. These decks Have:
+* Rooms
+* Pools and hot tubs
+* Restaurants
+* A casino
+* A gym
+* A running track
+* A mini golf course
+* Multiple shops
+* Multiple lounges/theaters
+* Multiple clubs
