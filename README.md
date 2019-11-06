@@ -10,4 +10,4 @@ The **Carnival Sensation** is one of the many Cruises in the [Carnival line of c
 1. Friday: Day at sea
 1. Saturday: Arrive back in Miami
 ## The Ship
-![image of the ship](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi80ob83tXlAhXjct8KHTKBA6AQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.carnival.com%2Fcruise-ships%2Fcarnival-sensation.aspx&psig=AOvVaw0FsrD9di8gAxwHVJrkWmgu&ust=1573135072924251)
+![image of da boat](https://www.carnival.com/~/media/Images/Ships/SE/carnival-sensation-2.jpg)
