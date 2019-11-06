@@ -9,3 +9,5 @@ The **Carnival Sensation** is one of the many Cruises in the [Carnival line of c
 1. Thursday: Arrive at Jamaica
 1. Friday: Day at sea
 1. Saturday: Arrive back in Miami
+## The Ship
+The 
