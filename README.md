@@ -14,7 +14,7 @@ The **Carnival Sensation** is one of the many Cruises in the [Carnival line of c
 The ship has a total of 13 decks. These decks Have:
 * Rooms
 * Pools and hot tubs
-* Restaurants
+* Restaurants/Buffets
 * A casino
 * A gym
 * A running track
@@ -22,3 +22,5 @@ The ship has a total of 13 decks. These decks Have:
 * Multiple shops
 * Multiple lounges/theaters
 * Multiple clubs
+## Island Activities
+You can sign up for *Excursions* which are activites on the islands, or you can choose to freeely explore them on your own. Some of these excursions include swimming with dolphins, swimming with stingrays, and sky lift tours among many many more.
